@@ -118,5 +118,5 @@ async def on_message(message):
             # eliminar la invitación
             await invitacion.delete()
 
-
+#pone tu token aqui
 client.run('')
