@@ -1,0 +1,33 @@
+----------- Español
+
+Ante de todo, anda a discord developer y crea tu bot, despues saca el token y lo insertas en
+el archivo en la ultima linea ;)
+
+----------- instruccion
+
+1. Tener Python 3.9.13 hacia arriba
+
+2. Tener pip actualizado
+
+3. Instalar con pip la libreria Discord
+si no lo sabes instalar, solo anda a la terminal y ejecuta el "pip install discord"
+
+4. ejecuta el archivo con py bot_fixed.py
+
+
+
+----------- English
+
+First of all, go to discord developer and create your bot, then get the token and insert it into
+the file in the last line ;)
+
+----------- instruction
+
+1. Have Python 3.9.13 upwards
+
+2. Have updated pip
+
+3. Install the Discord library with pip
+If you don't know how to install it, just go to terminal and run "pip install discord"
+
+4. run the file with py bot_fixed.py
